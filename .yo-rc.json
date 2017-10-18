@@ -1,0 +1,8 @@
+{
+  "generator-go-lang": {
+    "promptValues": {
+      "app": "gglplayground",
+      "repoUrl": "github.com/me/myapp"
+    }
+  }
+}
